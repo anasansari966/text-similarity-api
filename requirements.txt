@@ -1,5 +1,7 @@
-fastapi
-uvicorn
+#fastapi
+#uvicorn
+flask==2.2.5
+werkzeug==2.2.3
 pydantic
 pandas
 sentence-transformers

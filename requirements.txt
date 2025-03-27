@@ -3,3 +3,4 @@ werkzeug==2.2.3
 pydantic
 pandas
 joblib
+sentence-transformers
